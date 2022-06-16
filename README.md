@@ -20,5 +20,39 @@ Para ingresar debemos empezar por regístranos con nuestro correo y contraseña 
 El botón sign up nos permite crear una cuenta, esta nos dará un correo y una contraseña de nuestra elección.
 Si clicamos en forgot password podremos acceder a un apartado en el caso de haber olvidado la contraseña en esta opción podremos recuperar nuestra contraseña e ingresar nuevamente en el programa NG DESK.
 
+# Inicio:
 
+Para ingresar debemos empezar por regístranos con nuestro correo y contraseña previamente creados y damos clic en la opción login para así poder usar el programa.
+
+![](capturas/2.PNG)
+![](capturas/3.PNG)
+
+El botón sign up nos permite crear una cuenta, esta nos dará un correo y una contraseña de nuestra elección.
+Si clicamos en forgot password podremos acceder a un apartado en el caso de haber olvidado la contraseña en esta opción podremos recuperar nuestra contraseña e ingresar nuevamente en el programa NG DESK.
+
+# Uso del programa:
+
+La plataforma ngDesk incluye un panel centralizado que permite a los administradores crear diseños de listas para los tickets, además de agrupar los tickets según equipo, estado y otros campos.
+
+![](capturas/1.PNG)
+
+
+Al estar en este menú podemos encontrar nuestros tickets que previamente hemos generado para nuestros clientes, en la parte izquierda podremos desplegar un menú de opciones en donde encontraremos lo siguiente.
+
+![](capturas/5.PNG)
+
+ ![](capturas/14.PNG)
+
+ Al presionar en el sistema de tickets nos mostrará este menú:
+![](capturas/7.PNG)
+
+En este menú de creación de tickets ponemos el correo para quien va dirigido el problema a solucionar del cliente, dependiendo la necesidad del cliente se envía a distintas áreas.
+![](capturas/8.1.PNG)
+
+
+Pasando a esta opción esta es la parte en la que escribimos el problema para poder enviarlo al área indicada para responder con eficacia al problema, para después pasar a detallar en la siguiente parte …
+![](capturas/9.PNG)
+
+Llegando a esta parte describimos detalladamente el problema para que al enviarlo al área encargada pueda dar solución al problema sin mayor demora logrando así eficacia, rapidez y calidad.
+![](capturas/10.PNG)
 
