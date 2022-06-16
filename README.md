@@ -1,3 +1,24 @@
-# ngDesk
+#                         NgDesk
+
+![](capturas/13.PNG)
+
+# ¿Que es ngDesk?
+
+ngDesk es una solución de atención al cliente basada en la nube. Está diseñada para ayudar a los equipos de asistencia al cliente con la gestión de tickets y la resolución de consultas. Entre las principales funciones, se incluyen gestión de formularios, colaboración, creación de chatbots, flujos de trabajo basados en reglas, administración de bases de conocimientos y comunicación multicanal
+
+# ¿Quién usa ngDesk?
+
+Desde la educación hasta la informática y la inmobiliaria, ngDesk ha ayudado a muchas empresas a aumentar la efectividad de su atención al cliente y la eficiencia de sus operaciones como una solución de servicio técnico integral.
+ 
+# Inicio:
+
+Para ingresar debemos empezar por regístranos con nuestro correo y contraseña previamente creados y damos clic en la opción login para así poder usar el programa.
+
+![](capturas/2.PNG)
+![](capturas/3.PNG)
+
+El botón sign up nos permite crear una cuenta, esta nos dará un correo y una contraseña de nuestra elección.
+Si clicamos en forgot password podremos acceder a un apartado en el caso de haber olvidado la contraseña en esta opción podremos recuperar nuestra contraseña e ingresar nuevamente en el programa NG DESK.
+
 
 
