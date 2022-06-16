@@ -20,16 +20,6 @@ Para ingresar debemos empezar por regístranos con nuestro correo y contraseña 
 El botón sign up nos permite crear una cuenta, esta nos dará un correo y una contraseña de nuestra elección.
 Si clicamos en forgot password podremos acceder a un apartado en el caso de haber olvidado la contraseña en esta opción podremos recuperar nuestra contraseña e ingresar nuevamente en el programa NG DESK.
 
-# Inicio:
-
-Para ingresar debemos empezar por regístranos con nuestro correo y contraseña previamente creados y damos clic en la opción login para así poder usar el programa.
-
-![](capturas/2.PNG)
-![](capturas/3.PNG)
-
-El botón sign up nos permite crear una cuenta, esta nos dará un correo y una contraseña de nuestra elección.
-Si clicamos en forgot password podremos acceder a un apartado en el caso de haber olvidado la contraseña en esta opción podremos recuperar nuestra contraseña e ingresar nuevamente en el programa NG DESK.
-
 # Uso del programa:
 
 La plataforma ngDesk incluye un panel centralizado que permite a los administradores crear diseños de listas para los tickets, además de agrupar los tickets según equipo, estado y otros campos.
