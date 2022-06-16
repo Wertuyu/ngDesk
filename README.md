@@ -42,16 +42,3 @@ En este menú de creación de tickets ponemos el correo para quien va dirigido e
 
 Pasando a esta opción esta es la parte en la que escribimos el problema para poder enviarlo al área indicada para responder con eficacia al problema, para después pasar a detallar en la siguiente parte …
 ![](capturas/9.PNG)
-
-Llegando a esta parte describimos detalladamente el problema para que al enviarlo al área encargada pueda dar solución al problema sin mayor demora logrando así eficacia, rapidez y calidad.
-![](capturas/10.PNG)
-
-Los equipos pueden usar chatbots basados en reglas para capturar datos de clientes, guardar conversaciones pasadas para el análisis, optimizar la participación del cliente y acceder a métricas, como país de origen, navegador utilizado y páginas visitadas por los clientes.
-![](capturas/4.PNG)
-
-
-Otra de las facilidades de usar NG-DESK es la posibilidad de llevar siempre con nosotros dicha aplicación ya que puede ser descargada en nuestro dispositivo móvil sin importar si somos usuarios de Android o 10S teniendo una interfaz simple haciéndola fácil de usar, al tener esta aplicación ya se en nuestro móvil O nuestra Tablet nos permite ser más eficaces a la hora de responder requerimientos de nuestros clientes.
-                    
-![](capturas/12.PNG) ![](capturas/11.PNG)
-                       
-                        https: //ngdesk.com
