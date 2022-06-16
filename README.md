@@ -42,3 +42,6 @@ En este menú de creación de tickets ponemos el correo para quien va dirigido e
 
 Pasando a esta opción esta es la parte en la que escribimos el problema para poder enviarlo al área indicada para responder con eficacia al problema, para después pasar a detallar en la siguiente parte …
 ![](capturas/9.PNG)
+
+Llegando a esta parte describimos detalladamente el problema para que al enviarlo al área encargada pueda dar solución al problema sin mayor demora logrando así eficacia, rapidez y calidad.
+![](capturas/10.PNG)
